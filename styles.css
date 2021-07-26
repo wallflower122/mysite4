@@ -1,0 +1,161 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Coming Soon', cursive;
+
+
+}
+.topcontainer{
+  background-color: #DDFFBC;
+  margin: 0;
+}
+h1{
+  color: #1EAE98;
+  line-height: 2;
+  padding-top: 30px;
+  margin: 0px;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%
+}
+p{
+  color:#289672;
+  font-weight: bold;
+  margin: 0px;
+  font-family: 'Yomogi', cursive;
+  font-size: 20px;
+}
+.intro{
+  width: 30%;
+  position: relative;
+  left: 480px;
+  padding-bottom: 20px;
+}
+.middle-container{
+  background-color: #DDFFBC;
+
+}
+.bottom-container{
+background-color: #54436B;
+height:50px;
+padding: 40px 0 20px;
+}
+h2{
+  color: #50CB93;
+}
+h3{
+  color: #50CB93;
+}
+.cloud{
+  position: absolute;
+  left: 0px;
+}
+.topcloud{
+  padding-top: 80px;
+  position: absolute;
+  right: 20px;
+  top: 40px;
+}
+.topcloud2{
+  padding-top: 0px;
+  position: relative;
+  right: 20px;
+  bottom: 20px;
+}
+.first{
+  height: 70px;
+  padding-top:30px;
+  position: relative;
+  top: 25px;
+
+}
+.second{
+  height: 90px;
+  position: relative;
+  right: 150px;
+
+}
+.third{
+  height: 100px;
+  padding-top: 30px;
+
+}
+.hobbies{
+  padding: 20px 40px 20px 40px;
+  width: 60%;
+  position: relative;
+  left: 220px;
+}
+.friends{
+  height: 205px;
+}
+.b99{
+
+}
+.Shameless{
+  height: 205px;
+}
+.pb{
+  height: 205px;
+}
+.mountain{
+  position: relative;
+  top: 8px;
+}
+.talent{
+  position: relative;
+  bottom: 70px;
+}
+.talent1{
+  height: 100px;
+  padding: 0 60px 0 60px;
+  position: relative;
+  bottom: 50px;
+  width: 40%;
+  left: 340px;
+}
+hr{
+border: dotted #50CB93 6px;
+border-bottom: none;
+width: 7%
+}
+.last{
+  color: #ACFFAD;
+
+}
+.btn{
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: ;
+  color: #54436B;
+  font-size: 20px;
+  background: #50CB93;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  height: 20px;
+  margin: 30px;
+  position: relative;
+  bottom: 13px;
+}
+
+.btn:hover {
+  background: #28FFBF;
+  color:#54436B;
+  text-decoration: none;
+}
+.patanhi{
+  position: relative;
+  bottom: 30px;
+}
+.dhur{
+  position: relative;
+  bottom: 10px;
+}
+a{
+  color:#ACFFAD;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#28FFBF;
+}
